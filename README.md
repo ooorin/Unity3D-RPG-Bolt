@@ -1,7 +1,9 @@
 # Unity3D-RPG-Bolt
 A basic 3D RPG game using Unity3D Bolt. 
 
-Project and executable are too to upload, but the tutorial is coming soon.
+Source codes and executable files are too big to upload, but the tutorial is coming soon.
+
+You can see a demo video in the following link.
 
 Download link:  https://pan.baidu.com/s/12OwV-7rdydbx5ugAqeqLlw   54j5
 
